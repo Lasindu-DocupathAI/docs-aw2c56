@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-gs90v1.schonowski.com/sitemap.xml
